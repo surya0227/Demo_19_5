@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="bdb1e32e4f32220023bf3879b110c7b5" sys_domain="global" table="x_7724_servicenow_subject_exam_marks_details" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:40:23</sys_created_on>
+            <sys_id>0ae26b2e4f32220023bf3879b110c7ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:40:23</sys_updated_on>
+            <text>Mark Details</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_roll_number</element>
+            <position>0</position>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:40:23</sys_created_on>
+            <sys_id>8ae26b2e4f32220023bf3879b110c7ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_7724_servicenow_subject_exam_marks_details" sys_domain="global" view="Default view">bdb1e32e4f32220023bf3879b110c7b5</sys_ui_section>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:40:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>1</position>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:40:23</sys_created_on>
+            <sys_id>0ee26b2e4f32220023bf3879b110c7ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_7724_servicenow_subject_exam_marks_details" sys_domain="global" view="Default view">bdb1e32e4f32220023bf3879b110c7b5</sys_ui_section>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:40:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>2</position>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:40:23</sys_created_on>
+            <sys_id>8ee26b2e4f32220023bf3879b110c7ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_7724_servicenow_subject_exam_marks_details" sys_domain="global" view="Default view">bdb1e32e4f32220023bf3879b110c7b5</sys_ui_section>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:40:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>class_teacher</element>
+            <position>3</position>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:40:23</sys_created_on>
+            <sys_id>02e26b2e4f32220023bf3879b110c7cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_7724_servicenow_subject_exam_marks_details" sys_domain="global" view="Default view">bdb1e32e4f32220023bf3879b110c7b5</sys_ui_section>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:40:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>0ae26b2e4f32220023bf3879b110c7ca</element>
+            <position>4</position>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:40:23</sys_created_on>
+            <sys_id>82e26b2e4f32220023bf3879b110c7cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_7724_servicenow_subject_exam_marks_details" sys_domain="global" view="Default view">bdb1e32e4f32220023bf3879b110c7b5</sys_ui_section>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:40:23</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subject</element>
+            <position>5</position>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:40:23</sys_created_on>
+            <sys_id>06e26b2e4f32220023bf3879b110c7cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_7724_servicenow_subject_exam_marks_details" sys_domain="global" view="Default view">bdb1e32e4f32220023bf3879b110c7b5</sys_ui_section>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:40:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>marks_obtained</element>
+            <position>6</position>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:40:23</sys_created_on>
+            <sys_id>86e26b2e4f32220023bf3879b110c7cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_7724_servicenow_subject_exam_marks_details" sys_domain="global" view="Default view">bdb1e32e4f32220023bf3879b110c7b5</sys_ui_section>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:40:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_7724_servicenow_subject_exam_marks_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:35:11</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bdb1e32e4f32220023bf3879b110c7b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_7724_servicenow_subject_exam_marks_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ServiceNow IOT" source="x_7724_servicenow">662447224f32220023bf3879b110c798</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ServiceNow IOT">662447224f32220023bf3879b110c798</sys_scope>
+            <sys_update_name>sys_ui_section_bdb1e32e4f32220023bf3879b110c7b5</sys_update_name>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:35:11</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

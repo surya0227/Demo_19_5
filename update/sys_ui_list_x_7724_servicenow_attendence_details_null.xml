@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_7724_servicenow_attendence_details" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date</element>
+            <list_id display_value="x_7724_servicenow_attendence_details" element="NULL" name="x_7724_servicenow_attendence_details" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb34276e4f32220023bf3879b110c783</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:46:14</sys_created_on>
+            <sys_id>ff34276e4f32220023bf3879b110c783</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:46:14</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>month</element>
+            <list_id display_value="x_7724_servicenow_attendence_details" element="NULL" name="x_7724_servicenow_attendence_details" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb34276e4f32220023bf3879b110c783</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:46:14</sys_created_on>
+            <sys_id>7334276e4f32220023bf3879b110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:46:14</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>present</element>
+            <list_id display_value="x_7724_servicenow_attendence_details" element="NULL" name="x_7724_servicenow_attendence_details" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb34276e4f32220023bf3879b110c783</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:46:14</sys_created_on>
+            <sys_id>f334276e4f32220023bf3879b110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:46:14</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>student_id</element>
+            <list_id display_value="x_7724_servicenow_attendence_details" element="NULL" name="x_7724_servicenow_attendence_details" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb34276e4f32220023bf3879b110c783</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:46:14</sys_created_on>
+            <sys_id>7734276e4f32220023bf3879b110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:46:14</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_7724_servicenow_attendence_details</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:46:14</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb34276e4f32220023bf3879b110c783</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_7724_servicenow_attendence_details</sys_name>
+            <sys_package display_value="ServiceNow IOT" source="x_7724_servicenow">662447224f32220023bf3879b110c798</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ServiceNow IOT">662447224f32220023bf3879b110c798</sys_scope>
+            <sys_update_name>sys_ui_list_x_7724_servicenow_attendence_details_null</sys_update_name>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:46:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

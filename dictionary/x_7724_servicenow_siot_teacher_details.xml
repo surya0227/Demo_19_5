@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="SIOT Teacher Details" max_length="40" name="x_7724_servicenow_siot_teacher_details" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Head Of Department" max_length="32" name="head_of_department" reference="x_7724_servicenow_siot_teacher_details" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Home Address" max_length="100" name="home_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Mobile Number" max_length="40" name="mobile_number" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Teacher ID" max_length="40" name="teacher_id" type="string"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+        <index name="index2">
+            <element name="head_of_department"/>
+        </index>
+    </element>
+</database>

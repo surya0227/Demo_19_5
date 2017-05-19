@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="section" table="x_7724_servicenow_siot_student_details" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>section</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A</label>
+            <language>en</language>
+            <name>x_7724_servicenow_siot_student_details</name>
+            <sequence>0</sequence>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:59:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2472bae4f32220023bf3879b110c70f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:59:42</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>section</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>B</label>
+            <language>en</language>
+            <name>x_7724_servicenow_siot_student_details</name>
+            <sequence>1</sequence>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:59:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0867af6e4f32220023bf3879b110c75b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 13:59:54</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>section</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C</label>
+            <language>en</language>
+            <name>x_7724_servicenow_siot_student_details</name>
+            <sequence>2</sequence>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 14:00:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c767af6e4f32220023bf3879b110c75c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 14:00:07</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>section</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D</label>
+            <language>en</language>
+            <name>x_7724_servicenow_siot_student_details</name>
+            <sequence>3</sequence>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 14:00:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5677e7ae4f32220023bf3879b110c77e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 14:00:20</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>section</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E</label>
+            <language>en</language>
+            <name>x_7724_servicenow_siot_student_details</name>
+            <sequence>4</sequence>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 14:00:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d58727ae4f32220023bf3879b110c712</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 14:00:32</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>section</element>
+            <name>x_7724_servicenow_siot_student_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 13:59:42</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c957a7ae4f32220023bf3879b110c703</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>section</sys_name>
+            <sys_package display_value="ServiceNow IOT" source="x_7724_servicenow">662447224f32220023bf3879b110c798</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ServiceNow IOT">662447224f32220023bf3879b110c798</sys_scope>
+            <sys_update_name>sys_choice_x_7724_servicenow_siot_student_details_section</sys_update_name>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 14:00:32</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

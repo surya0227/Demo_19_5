@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_7724_servicenow_siot_student_details" label="Exam Mark details" max_length="40" name="x_7724_servicenow_subject_exam_marks_details" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Marks Obtained" max_length="40" name="marks_obtained" type="string"/>
+        <element label="Student Roll Number" max_length="32" name="student_roll_number" reference="x_7724_servicenow_siot_student_details" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Subject" max_length="40" name="subject" type="string"/>
+        <index name="index">
+            <element name="student_roll_number"/>
+        </index>
+    </element>
+</database>

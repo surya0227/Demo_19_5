@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="mother_s_name" label="Mother's Name" language="en" table="x_7724_servicenow_siot_student_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>mother_s_name</element>
+            <help/>
+            <hint/>
+            <label>Mother's Name</label>
+            <language>en</language>
+            <name>x_7724_servicenow_siot_student_details</name>
+            <plural>Mother's Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>surya.nair</sys_created_by>
+            <sys_created_on>2016-11-03 12:01:41</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>505cc3664f32220023bf3879b110c7c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mother's Name</sys_name>
+            <sys_package display_value="ServiceNow IOT" source="x_7724_servicenow">662447224f32220023bf3879b110c798</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ServiceNow IOT">662447224f32220023bf3879b110c798</sys_scope>
+            <sys_update_name>sys_documentation_x_7724_servicenow_siot_student_details_mother_s_name_en</sys_update_name>
+            <sys_updated_by>surya.nair</sys_updated_by>
+            <sys_updated_on>2016-11-03 12:01:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

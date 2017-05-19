@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Attendence Details" max_length="40" name="x_7724_servicenow_attendence_details" type="collection">
+        <element label="Class Teacher" max_length="32" name="class_teacher" reference="x_7724_servicenow_siot_teacher_details" type="reference"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Month" max_length="40" name="month" type="string"/>
+        <element label="Present" max_length="40" name="present" type="boolean"/>
+        <element label="Student ID" max_length="32" name="student_id" reference="x_7724_servicenow_siot_student_details" type="reference"/>
+        <index name="index">
+            <element name="class_teacher"/>
+        </index>
+        <index name="index2">
+            <element name="student_id"/>
+        </index>
+    </element>
+</database>
